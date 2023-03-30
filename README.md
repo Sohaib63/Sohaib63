@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **student of final semester of CS at UET, Lahore.**
 
-- 🌱 I’m currently learning **MERN stack and some backend frameworks.**
+- 🌱 I’m currently learning **MERN stack.**
 
 - 👯 I’m looking to grab a **software dev. internship or job.**
 
