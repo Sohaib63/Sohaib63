@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently a **student of final semester of CS at UET, Lahore.**
+- 🔭 I’m a **fresh grad of CS from UET, Lahore.**
 
 - 🌱 I’m currently learning **MERN stack.**
 
